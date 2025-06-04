@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/TCPimage.webp
 title: "TCP Modifier"
 date: 2024-11-16
 published: true
