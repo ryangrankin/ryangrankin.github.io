@@ -1,0 +1,71 @@
+Script started on Sun 10 Nov 2024 10:55:27 AM HST
+]0;rrankin@uhx02:~/homework8[?1034huhx02:/home/r/rrankin/homework8% exitg++ -o homework8 homework8.cpp[16Pvi homework2.cls[Kcd homework2[1P./homework8g++ -o homework8 homework8.cpp[19P./homework8
+this program generates a table of numbers from zero to a number dictated by the user and indicates whether on not each is a multiple of 3 
+enter a max number to show: -1
+invalid input! please enter something greater than one! 
+enter a max number to show: 59
+ number   multiple of 3?
+    0     no
+    1     no
+    2     no
+    3     yes
+    4     no
+    5     no
+    6     yes
+    7     no
+    8     no
+    9     yes
+    10     no
+    11     no
+    12     yes
+    13     no
+    14     no
+    15     yes
+    16     no
+    17     no
+    18     yes
+    19     no
+    20     no
+    21     yes
+    22     no
+    23     no
+    24     yes
+    25     no
+    26     no
+    27     yes
+    28     no
+    29     no
+    30     yes
+    31     no
+    32     no
+    33     yes
+    34     no
+    35     no
+    36     yes
+    37     no
+    38     no
+    39     yes
+    40     no
+    41     no
+    42     yes
+    43     no
+    44     no
+    45     yes
+    46     no
+    47     no
+    48     yes
+    49     no
+    50     no
+    51     yes
+    52     no
+    53     no
+    54     yes
+    55     no
+    56     no
+    57     yes
+    58     no
+    59     no
+]0;rrankin@uhx02:~/homework8uhx02:/home/r/rrankin/homework8% exit
+exit
+
+Script done on Sun 10 Nov 2024 10:55:53 AM HST

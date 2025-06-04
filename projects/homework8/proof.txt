@@ -1,0 +1,6 @@
+Script started on Sun 10 Nov 2024 10:54:32 AM HST
+]0;rrankin@uhx02:~/homework8[?1034huhx02:/home/r/rrankin/homework8% vi homework2.cls[Kcd homework2[1P./homework8g++ -o homework8 homework8.cpp
+]0;rrankin@uhx02:~/homework8uhx02:/home/r/rrankin/homework8% exit
+exit
+
+Script done on Sun 10 Nov 2024 10:54:57 AM HST
