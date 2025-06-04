@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Muliples of 3 "
+title: "Multiples of 3 "
 date: 2024-11-11
 published: true
 labels:
