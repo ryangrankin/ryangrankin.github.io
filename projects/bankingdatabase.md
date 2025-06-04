@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/TCPimage.webp
+image: img/bank.avif
 title: "Banking Database"
 date: 2024
 published: true
