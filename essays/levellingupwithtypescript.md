@@ -41,4 +41,4 @@ In the ever changing world, AI is a controversial tool. I used ChatGPT on E09, i
 
 ## In Summary:
 
-All in all, the transition from JavaScript to TypeScript has been new, but rewarding. Refamiliarizing myself with JavaScript, learning ES6, and then transitioning to TypeScript allowed me to comprehend the importance and usability of TypeScript in software engineering. Athletic software engineering and WOD’s are stressful, but allowing me to further understand the content, and learn it rather than simply memorize. 
+All in all, the transition from JavaScript to TypeScript has been new, but rewarding. Refamiliarizing myself with JavaScript, learning ES6, and then transitioning to TypeScript allowed me to comprehend the importance and usability of TypeScript in software engineering. Athletic software engineering and WOD’s are stressful, but allow me to further understand the content, and learn it rather than simply memorize. 
