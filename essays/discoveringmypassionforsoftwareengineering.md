@@ -11,7 +11,7 @@ labels:
 
 
 
-*Discovering my Passion for Software Engineering*
+
 
 Software Engineering has stood out to me since I began to explore career opportunities my senior year of highschool. Growing up doing ‘Girls who code’ workshops and learning from my parents, who are both engineers, I realized that software engineering perfectly combines the elements I was seeking. It excites me because it combines creativity with logical problem solving- two things that I really enjoy. Although I am still building and improving the skills I need to excel in this field, I am eager to grow by learning to design and build projects that can solve real world problems. 
 
