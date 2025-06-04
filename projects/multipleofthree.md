@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Multiples of 3 Calculator"
 date: 2024-11-11
-published: true
+published: false
 labels:
   - User Input
   - Math
