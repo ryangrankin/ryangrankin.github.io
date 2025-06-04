@@ -27,7 +27,7 @@ I am currently focused on developing programming skills to build the foundation 
 
 I look forward to growing my interpersonal and communication skills in professional settings, and hope to make more social connections with people in my field of study. I hope to improve my ability to connect with and maintain professional connections and relationships, as building a network of peers and mentors will no doubt serve me well as I enter work post grad. 
 
-## All in All; 
+## All in All: 
 
 In summary, while I am still building my portfolio of skills, my passion for learning and problem solving, along with my love for social interaction motivates me to take software engineering seriously. I want to develop social skills that will help me contribute effectively in the future to software projects and teams. I aim to grow into a well rounded professional by being a dedicated student and using my practical experience. 
 
