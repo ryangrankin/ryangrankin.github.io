@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/back-school-supply-calculator-icon-isolated_18591-84513.avif
 title: "Multiples of 3 "
 date: 2024-11-11
 published: true
