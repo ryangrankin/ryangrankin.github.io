@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Muliples of 3 "
+date: 2024-11-11
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - C++
+  - User Input
+  - Calculations
+summary: "An application that determines whether each number is a multiple of 3 developed for an assignment in ICS 212."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
