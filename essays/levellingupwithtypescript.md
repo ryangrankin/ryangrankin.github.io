@@ -19,7 +19,7 @@ labels:
 
 ## From JavaScript to TypeScript:
 
-Before beginning this class, I had limited experience with JavaScript from my highschool AP Computer Science Principles class. To be honest, I had barely used JavaScript and barely heard of TypeScript. Some things about JavaScript confused me, and it is clear to see that that was remedied in TypeScript, with things such as type checking. Though TypeScript at first felt intimidating, as I have made my way through the practice WOD’s and lessons, I have come to understand that the structure of TypeScript allows it to catch errors and improve my code’s readability. ES6 was completely new to me, and it made JavaScript feel far more digestible to me. Using features like let and const helped me understand the scope much more easily. Learning ES6 definitely made the transition from JavaScript to TypeScript smoother. 
+Before beginning this class, I had limited experience with JavaScript from my highschool AP Computer Science Principles class. To be honest, I had barely used JavaScript and barely heard of TypeScript. Some things about JavaScript confused me, and it is clear to see that that was remedied in TypeScript, with things such as type checking. Though TypeScript at first felt intimidating, as I have made my way through the practice WOD’s and lessons, I have come to understand that the structure of TypeScript allows it to catch errors and improve my code’s readability. ES6 was completely new to me, and it made JavaScript feel far more digestible. Using features like let and const helped me understand the scope much more easily. Learning ES6 definitely made the transition from JavaScript to TypeScript smoother. 
 
 
 ## Comparing to Other Languages: 
