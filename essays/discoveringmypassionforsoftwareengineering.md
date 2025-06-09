@@ -17,7 +17,7 @@ Software Engineering has stood out to me since I began to explore career opportu
 
 ## My Interest in Software Engineering:
 
-As someone who always seeks social connection, I am excited to be a part of a field that requires collaboration with others with diverse skills and backgrounds. I like talking to people and building important social ties, and I believe that that will help me to be a great software engineer. Effective software development should not depend solely on coding, but also working with and sharing ideas with others to bring ideas to life. 
+As someone who is always seeking social connection, I am eager to be a part of a field that requires collaboration with others who bring diverse skills and backgrounds. I like talking to people and building social ties, and I believe that that will help me to be an effective software engineer. Effective software development should not depend solely on coding, but also working with and sharing ideas with others to bring ideas to life. 
 
 ## My Current Goals: 
 
@@ -29,5 +29,5 @@ I look forward to growing my interpersonal and communication skills in professio
 
 ## All in All: 
 
-In summary, while I am still building my portfolio of skills, my passion for learning and problem solving, along with my love for social interaction motivates me to take software engineering seriously. I want to develop social skills that will help me contribute effectively in the future to software projects and teams. I aim to grow into a well rounded professional by being a dedicated student and using my practical experience. 
+In summary, while I am still building my portfolio of skills, my passion for learning and problem solving, along with my love for social interaction motivates me to take software engineering seriously. I want to develop social skills that will help me contribute effectively in the future to software projects and teams. I aim to grow into a well rounded professional by being a dedicated student and expanding my practical experience. 
 
