@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Theres No Dumb Questions... Or is there?"
+title: "No Dumb Questions... Or is there?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-13
 published: true
