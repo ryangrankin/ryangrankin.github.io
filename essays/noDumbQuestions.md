@@ -6,27 +6,30 @@ title: "Theres No Dumb Questions... Or is there?"
 date: 2025-06-13
 published: true
 labels:
-  - Smart Questions 
+  - Smart Questions
+  - StackOverflow
 ---
 
+## Why ask good questions?
+As a software engineer, we spend just as much time debugging, asking for help, and relearning, as we do writing code. In a world where the internet makes collaboration and research constantly accessible, the ability to ask good questions can be just as important as our ability to write clean code. In his essay "How to Ask Questions the Smart Way", Eric Raymond outlines the ideal format and expectations for seeking guidance in open source forums. This essay will explore the importance of asking "smart" questions by analyzing examples from StackOverflow. The contrast between questions that follow Raymond's guidelines and those that do not highlights the importance of asking questions in a smart way. 
+
+## The Smart Way; Clear and Contextual: 
+A great example of a smart question that follows Raymond's is  this one: 
+[
+](https://stackoverflow.com/questions/14425568/interface-type-check-with-typescript)
+The user asking the questions in a smart way by first explaining the context of thier question:
+they understand that typescript interfaces are erased at runtime, include a snippet of code showing their attempt to use instanceof and how it fails, and are asking a focused question (Is it possible to check interface compliance at runtime? If not what is the best practice). This question received helpful and detailed responses because it clearly demonstrated that the author had attempted to research and understand the issue, and defined the problems & what they have already tried. The amount of quality answers speaks to the quality of the question.
 
 
+## The Other Way; Vague and Unhelpful: 
+Though StackOverflow has strict community guidelines preventing "not smart" questions, ChatGPT has helped me generate an example of a low quality question. 
+ "HELP!! For Loop not working!!, I am trying to make my for loop work but it doesn't. Please write a for loop for me. What's wrong?". This is an example of a question that violates all of the principles behind Raymond's article. The question is undesirable as it contains a vague header that relies on urgency rather than the content. The question also doesn't demonstrate any snippet of code, contextualize what language they are using or what research has been done, or use a respectful tone. Questions like this will not attract kind or even helpful responses as the user seems entitled and not looking to genuinely improve their knowledge with other help.
 
+## So Are There Dumb Questions?: 
+Maybe in life there is no such thing as dumb questions, but in open source forums there just might be. The two examples shown above clearly demonstrate that asking smarter questions leads to smarter answers. The smart question stands out because the user clearly performed prior research, asked a precise question, and asked in a respectful tone. Constrastingly, the not so smart question showed the users lack of respect, effort, and detail that can easily annoy readers and fail to generate helpful responses. It is just as important how you ask a question as what you ask. When one needs help, it is essential to slow down and approach the community in a way that demonstrates a way for knowledge and respect. Not only will this generate a better response, but also help others. 
 
-Software Engineering has stood out to me since I began to explore career opportunities my senior year of highschool. Growing up doing ‘Girls who code’ workshops and learning from my parents, who are both engineers, I realized that software engineering perfectly combines the elements I was seeking. It excites me because it combines creativity with logical problem solving- two things that I really enjoy. Although I am still building and improving the skills I need to excel in this field, I am eager to grow by learning to design and build projects that can solve real world problems. 
+## Conclusion:
+Stackoverflow might be designed for technical question use, but behind every Q & A is a human conversation. Raymond's guidelines help us become better communicators in a highly logical field. By putting time and effort into asking questions in a "smart" way, we build a more professional and respectful community of software engineers. 
 
-## My Interest in Software Engineering:
-
-As someone who is always seeking social connection, I am eager to be a part of a field that requires collaboration with others who bring diverse skills and backgrounds. I like talking to people and building social ties, and I believe that that will help me to be an effective software engineer. Effective software development should not depend solely on coding, but also working with and sharing ideas with others to bring ideas to life. 
-
-## My Current Goals: 
-
-I am currently focused on developing programming skills to build the foundation of my knowledge in core software engineering principles. I want to become more familiar with coding languages and tools that will be expected in daily use as a software engineer. Beyond this, I hope to gain experience in problem solving and building the neural connection to become an efficient and effective problem solver. 
-
-## My Future Goals: 
-
-I look forward to growing my interpersonal and communication skills in professional settings, and hope to make more social connections with people in my field of study. I hope to improve my ability to connect with and maintain professional connections and relationships, as building a network of peers and mentors will no doubt serve me well as I enter work post grad. 
-
-## All in All: 
-
-In summary, while I am still building my portfolio of skills, my passion for learning and problem solving, along with my love for social interaction motivates me to take software engineering seriously. I want to develop social skills that will help me contribute effectively in the future to software projects and teams. I aim to grow into a well rounded professional by being a dedicated student and expanding my practical experience. 
+Disclaimer: 
+Parts of the Essay were developed with the help of ChatGPT, to assist with generating a bad question that would violate Stackoverflow guidelines. Thoughts and insights are my own. 
