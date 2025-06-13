@@ -15,8 +15,7 @@ As a software engineer, we spend just as much time debugging, asking for help, a
 
 ## The Smart Way; Clear and Contextual: 
 A great example of a smart question that follows Raymond's is  this one: 
-[
-](https://stackoverflow.com/questions/14425568/interface-type-check-with-typescript)
+(https://stackoverflow.com/questions/14425568/interface-type-check-with-typescript)
 The user asking the questions in a smart way by first explaining the context of thier question:
 they understand that typescript interfaces are erased at runtime, include a snippet of code showing their attempt to use instanceof and how it fails, and are asking a focused question (Is it possible to check interface compliance at runtime? If not what is the best practice). This question received helpful and detailed responses because it clearly demonstrated that the author had attempted to research and understand the issue, and defined the problems & what they have already tried. The amount of quality answers speaks to the quality of the question.
 
