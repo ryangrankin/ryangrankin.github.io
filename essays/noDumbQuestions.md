@@ -16,7 +16,7 @@ As a software engineer, we spend just as much time debugging, asking for help, a
 ## The Smart Way; Clear and Contextual: 
 A great example of a smart question that follows Raymond's is  this one: 
 https://stackoverflow.com/questions/14425568/interface-type-check-with-typescript. 
-# Question Asked: 
+### Question Asked: 
 This question is the direct analogon to Class type check in TypeScript
 
 I need to find out at runtime if a variable of type any implements an interface. Here's my code:
