@@ -15,7 +15,35 @@ As a software engineer, we spend just as much time debugging, asking for help, a
 
 ## The Smart Way; Clear and Contextual: 
 A great example of a smart question that follows Raymond's is  this one: 
-(https://stackoverflow.com/questions/14425568/interface-type-check-with-typescript)
+https://stackoverflow.com/questions/14425568/interface-type-check-with-typescript. 
+# Question Asked: 
+This question is the direct analogon to Class type check in TypeScript
+
+I need to find out at runtime if a variable of type any implements an interface. Here's my code:
+
+interface A {
+    member: string;
+}
+    
+var a: any = { member: "foobar" };
+    
+if (a instanceof A) alert(a.member);
+If you enter this code in the typescript playground, the last line will be marked as an error, "The name A does not exist in the current scope". But that isn't true, the name does exist in the current scope. I can even change the variable declaration to var a:A={member:"foobar"}; without complaints from the editor. After browsing the web and finding the other question on SO I changed the interface to a class but then I can't use object literals to create instances.
+
+I wondered how the type A could vanish like that but a look at the generated javascript explains the problem:
+
+var a = {
+    member: "foobar"
+};
+
+if (a instanceof A) {
+    alert(a.member);
+}
+There is no representation of A as an interface, therefore no runtime type checks are possible.
+
+I understand that javascript as a dynamic language has no concept of interfaces. Is there any way to type check for interfaces?
+
+The typescript playground's autocompletion reveals that typescript even offers a method implements. How can I use it ?
 The user asking the questions in a smart way by first explaining the context of thier question:
 they understand that typescript interfaces are erased at runtime, include a snippet of code showing their attempt to use instanceof and how it fails, and are asking a focused question (Is it possible to check interface compliance at runtime? If not what is the best practice). This question received helpful and detailed responses because it clearly demonstrated that the author had attempted to research and understand the issue, and defined the problems & what they have already tried. The amount of quality answers speaks to the quality of the question.
 
