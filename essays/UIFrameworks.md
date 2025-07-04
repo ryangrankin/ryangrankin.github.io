@@ -49,8 +49,8 @@ Learning how to code a practical, efficient, and aesthetic UI is an important sk
 
 Below are two versions of the same website. The first is blonded.co, a website not built using bootstrap 5, but shopify. The second is my recreation of this website, using bootstrap 5. As you can see, the version created with bootstrap offers a clean version of the original website, offering the same features and functionality, with consistent elements such as a mailing list, product listing, and navigation bar.  
 
-<img width="100px" class="rounded float-start pe-4" src="img/blondedoofical.png">
-<img width="100px" class="rounded float-start pe-4" src="img/blondedremake.png">
+<img width="100px" class="rounded float-start pe-4" src=".img/blondedoofical.png">
+<img width="100px" class="rounded float-start pe-4" src=".img/blondedremake.png">
 
 ## The Use of AI:
 
