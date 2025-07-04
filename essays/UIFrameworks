@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Whats the benefit of UI Frameworks? Bootstrap 5 and beyond!"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2025-07-03
 published: true
 labels:
   - Software Engineering
@@ -12,7 +12,6 @@ labels:
   - Front End Development  
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
 UI (User Interface) frameworks are something that is relatively new to me. Previous to taking software engineering, I had little to no experience with HTML or CSS. I had only been dealing with UI in the way that terminals displayed prompts and output. Evidently, I was very excited to jump into designing something that had more aesthetic value, and made the experience simpler for the user. Jumping into HTML and CSS proved exciting, though I quickly realized how much work goes into the design of even a simple button or forum. As I move towards building projects that require multiple pages, it means a mess of duplicated work and elements, in order to maintain consistency. Beginning to use Bootstrap 5 changes everything. 
 
