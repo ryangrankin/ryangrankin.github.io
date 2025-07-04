@@ -12,7 +12,7 @@ labels:
   - Front End Development  
 ---
 
-*UI Frameworks*
+## *UI Frameworks*
 
 UI (User Interface) frameworks are something that is relatively new to me. Previous to taking software engineering, I had little to no experience with HTML or CSS. I had only been dealing with UI in the way that terminals displayed prompts and output. Evidently, I was very excited to jump into designing something that had more aesthetic value, and made the experience simpler for the user. Jumping into HTML and CSS proved exciting, though I quickly realized how much work goes into the design of even a simple button or forum. As I move towards building projects that require multiple pages, it means a mess of duplicated work and elements, in order to maintain consistency. Beginning to use Bootstrap 5 changes everything. 
 
@@ -20,15 +20,15 @@ UI (User Interface) frameworks are something that is relatively new to me. Previ
 
 UI frameworks like bootstrap 5 were created to help programmers manage the complexity that comes with large and real world projects. Some of the benefits I have discovered in my introduction to Bootstrap5:
 
-# 1) consistency 
+### 1) consistency 
 
 Bootstrap has a set of default rules that are designed to not only work well together, but also to be visually aesthetic for the user. This feature will save me time spent on recreating components, and gives a good baseline to improve the aesthetic of my sites.  
 
-# 2) classes
+### 2) classes
 
 Bootstrap has a 12 column grid system that makes it easy to build websites that work for various screen sizes, which is important for real world programming. Features that allow me to choose how much of the screen an element fills will save me time testing the transfer from a computer to a phone to a tablet screen. Chat GPT helped me discover and implement classes like col-md-6 into my code  to control the visibility and sizing of visual elements. 
 
-# 3) reusability 
+### 3) reusability 
 
 Bootstrap provides components useful for code that work right off the bat. I found using elements like nav-bar in my site design saved me time and unnecessary coding. These elements are designed to be functional and accessible to the user, and leads to a better UI design with less work. Rather than spending hours trying to figure out how to code a navigation bar or dropdown, I was able to implement the bootstrap version quickly, while preserving the functionality and aesthetic of my page.
 
