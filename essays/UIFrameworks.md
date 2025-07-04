@@ -49,6 +49,9 @@ Learning how to code a practical, efficient, and aesthetic UI is an important sk
 
 Below are two versions of the same website. The first is blonded.co, a website not built using bootstrap 5, but shopify. The second is my recreation of this website, using bootstrap 5. As you can see, the version created with bootstrap offers a clean version of the original website, offering the same features and functionality, with consistent elements such as a mailing list, product listing, and navigation bar.  
 
+img(img/blondedoofical.png)
+img(img/blondedremake.png)
+
 ## The Use of AI:
 
 I used ChatGPT while writing this essay to learn more about Semantic UI and confirm the  functions offered by Bootstrap 5. All writing and content are my personal thoughts and views which reflect my work in this class and module. 
