@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: img/back-school-supply-calculator-icon-isolated_18591-84513.avif
+image: img/FindMyFriends.png
 title: "Find my Friends"
 date: 2025-08
 published: true
 labels:
-  - CSS
-  - HTML
+  - TypeScript
+  - Next.js
   - Vercel
   - Group Prject
 summary: "An application designed to match UH students based on common interests, and provide a platform to chat and meet up."
