@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "HTML", "CSS" ]
+      "keywords": [ "C", "C++", "Java", "HTML", "CSS", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Eclipse", "Git/GitHub", "vi/vim", "PostGres", "Vercel" ]
+      "keywords": [ "MacOS", "Eclipse", "Git/GitHub", "vi/vim", "PostGres", "Vercel", "Next.js" ]
     }
   ],
   "education": [
