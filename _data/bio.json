@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Eclipse", "Git/GitHub", "vi/vim", "PostGres" ]
+      "keywords": [ "MacOS", "Eclipse", "Git/GitHub", "vi/vim", "PostGres", "Vercel" ]
     }
   ],
   "education": [
